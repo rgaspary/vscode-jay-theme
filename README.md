@@ -1,4 +1,6 @@
-# Kay theme
+# Jay theme
+
+This is a fork of the original [Kay theme](https://github.com/kube/vscode-kay-theme) for VSCodium.
 
 Focus on code.
 
